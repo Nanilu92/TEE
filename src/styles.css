@@ -1,7 +1,7 @@
 :root {
     --branding-color: pink;
     --secondary-color: #f9f7fe;
-    --heading-font-family: "Lucida Console", Monaco, monospace;
+    --heading-font-family: "Playfair Display", serif;
     --default-font-family:  "Poppins", sans-serif;
 }
 body {
